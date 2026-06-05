@@ -1,0 +1,7 @@
+{
+  "name": "HemaMatch Blood Bank Management System",
+  "description": "A comprehensive hospital blood bank system for inventory tracking, donor management, and AI-powered recruitment insights. Built for Kenyan healthcare contexts with proximity filtering and compatibility matching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
